@@ -1,0 +1,17 @@
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\bin\Debug\net6.0-windows\tp3_Chandra.exe
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\bin\Debug\net6.0-windows\tp3_Chandra.deps.json
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\bin\Debug\net6.0-windows\tp3_Chandra.runtimeconfig.json
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\bin\Debug\net6.0-windows\tp3_Chandra.dll
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\bin\Debug\net6.0-windows\tp3_Chandra.pdb
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.csproj.AssemblyReference.cache
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.Form1.resources
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.csproj.GenerateResource.cache
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.AssemblyInfoInputs.cache
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.AssemblyInfo.cs
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.csproj.CoreCompileInputs.cache
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.dll
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\refint\tp3_Chandra.dll
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.pdb
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\tp3_Chandra.genruntimeconfig.cache
+C:\Users\Chandra\source\repos\tp3_Chandra\tp3_Chandra\obj\Debug\net6.0-windows\ref\tp3_Chandra.dll
